@@ -1,0 +1,1 @@
+# cokie-clicker-version-1.0
